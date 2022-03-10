@@ -1,0 +1,6 @@
+terraform-provider-kibana
+.DS_Store
+.idea/
+.vscode/
+.*.sw*
+.envrc
