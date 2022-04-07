@@ -1,3 +1,3 @@
-# terraform-provider-kibana
-
-Custom Terraform provider for Kibana rules management
+# Terraform provider for Kibana [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/qonto/terraform-provider-kibana?label=release)](https://github.com/qonto/terraform-provider-kibana/releases) [![license](https://img.shields.io/github/license/qonto/terraform-provider-kibana.svg)]()
+- Website: [terraform.io](https://terraform.io)
+- Tutorials: [learn.hashicorp.com](https://learn.hashicorp.com/terraform?track=getting-started#getting-started)
